@@ -1,6 +1,6 @@
 [build]
   node_version = "18.16.0"
-baseURL = 'http://example.org/'
+baseURL = 'https://bgd-hugo.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
